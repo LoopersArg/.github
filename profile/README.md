@@ -39,6 +39,7 @@ Acompañamos a empresas medianas en toda la transformación: relevamos cada áre
 ## Open source
 
 - 💬 **[whatsapp-agent-starter](https://github.com/PedroJDre/whatsapp-agent-starter)** — Asistente de WhatsApp con LangChain que no inventa precios: herramientas, reglas en código y derivación a una persona
+- 📉 **[ecommerce-price-tracker-starter](https://github.com/PedroJDre/ecommerce-price-tracker-starter)** — Seguimiento de precios en tiendas online, Shopify y Mercado Libre, con alertas y un [dashboard en vivo](https://pedrojdre.github.io/ecommerce-price-tracker-starter/)
 - 🚙 **[baic-price-scraper](https://github.com/LoopersArg/-baic-price-scraper)** — Scraper de precios de modelos BAIC en Mercado Libre
 
 ---
